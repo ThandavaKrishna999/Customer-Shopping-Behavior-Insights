@@ -192,7 +192,3 @@ Power BI for dashboards
 DAX for KPIs
 
 Business storytelling for insights
-
-✅ A repo banner image
-✅ A LinkedIn project announcement post
-Just tell me!
